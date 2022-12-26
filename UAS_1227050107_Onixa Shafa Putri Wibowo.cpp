@@ -7,7 +7,7 @@ main(){
 	int i,j, baris, kolom;
 	
 	cout << "==================================================="<<endl;
-  	cout << " Tugas Dasar Pemrograman"<<endl;
+  	cout << " UAS Dasar Pemrograman"<<endl;
   	cout << "==================================================="<<endl;
   	cout << " Nama	: Onixa Shafa Putri Wibowo"<<endl;
   	cout << " NIM	: 1227050107"<<endl;
